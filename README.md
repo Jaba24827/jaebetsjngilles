@@ -29,7 +29,7 @@ A capstone project exploring a centralized digital workplace for organizational 
 
 **Technologies:** Laravel, PHP, MySQL, React, TypeScript
 
-[View repository](https://github.com/YOUR-USERNAME/YOUR-PROJECT-REPOSITORY](https://github.com/Jaba24827/ST-DWP-MVP))
+[View repository](https://github.com/Jaba24827/ST-DWP-MVP)
 
 ### Additional Projects
 - **E-commerce application:** Product catalog, user experience, and business workflows.
